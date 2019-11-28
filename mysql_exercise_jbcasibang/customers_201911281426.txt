@@ -1,0 +1,12 @@
+|id         |fname                   |lname                   |cnum       |count                   |type                    |
+|-----------|------------------------|------------------------|-----------|------------------------|------------------------|
+|1          |Jasfer                  |Augusto                 |09123346661|12                      |Walk-in                 |
+|2          |Ferdinand               |Fenta                   |09123346662|4                       |Walk-in                 |
+|3          |Ferd                    |Jully                   |09123346663|5                       |Walk-in                 |
+|4          |Ford                    |Ford                    |09123346664|9                       |Walk-in                 |
+|5          |Triss                   |Yesie                   |09123346665|7                       |Walk-in                 |
+|6          |Cassie                  |Henry                   |09123346666|12                      |Reservation             |
+|7          |Marga                   |Tonio                   |09123346667|100                     |Reservation             |
+|8          |Jully                   |Ferna                   |09123346668|89                      |Reservation             |
+|9          |Antonio                 |Montedragon             |09123346669|100                     |Reservation             |
+|10         |Felipe                  |Montedragon             |09123346670|150                     |Reservation             |

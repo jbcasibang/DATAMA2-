@@ -1,0 +1,12 @@
+|id         |date      |event                   |venue                   |
+|-----------|----------|------------------------|------------------------|
+|10         |2010-10-28|birthday                |Gazeboo                 |
+|11         |2010-10-28|outing                  |Campsite                |
+|12         |2010-10-28|outing                  |Gazeboo                 |
+|13         |2010-10-28|outing                  |Campsite                |
+|14         |2010-10-28|outing                  |Campsite                |
+|15         |2010-10-28|team building           |Gazeboo                 |
+|16         |2010-10-28|outing                  |Campsite                |
+|17         |2011-08-28|birthday                |Gazeboo                 |
+|18         |2011-08-28|birthday                |Compound                |
+|19         |2010-10-28|birthday                |Gazeboo                 |
